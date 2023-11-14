@@ -78,5 +78,10 @@
 
 ```python
 !pip install pydot pydotplus
+```
+```python
 !apt-get install -y graphviz libgraphviz-dev
+```
+```python
 !pip install pygraphviz
+```
