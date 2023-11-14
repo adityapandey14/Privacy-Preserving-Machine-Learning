@@ -13,3 +13,17 @@
 · **Threats:** Unauthorized access, data leakage, or misuse of sensitive information.
 
 · **Risks:** The risks are significant given the sensitive nature of medical data, the potential harm to patients, and possible legal repercussions for healthcare providers.
+
+
+## Proposed Solution
+**1.2.1 Category**
+
+· Our solution falls into secure multi-party computation (SMPC), differential privacy, and/or fully homomorphic encryption (FHE).
+
+· We propose a privacy-preserving machine learning framework for EHR systems, which allows healthcare providers to collaboratively train and evaluate machine learning models without sharing raw patient data.
+
+**1.2.2 Expected Benefits**
+
+· Enhanced data privacy and security for patients
+
+· Compliance with privacy regulations (e.g., HIPAA, GDPR)
