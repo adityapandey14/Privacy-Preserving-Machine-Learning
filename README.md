@@ -74,3 +74,9 @@
 
 6. Understand EHR architectures
 
+## Installation
+
+```python
+!pip install pydot pydotplus
+!apt-get install -y graphviz libgraphviz-dev
+!pip install pygraphviz
